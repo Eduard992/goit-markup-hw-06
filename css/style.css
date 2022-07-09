@@ -565,6 +565,8 @@ body {
 /* Join us */
 
 .join {
+    width: 206px;
+    height: 80px;
     margin-left: 70px;
     height: 80px;
 }
