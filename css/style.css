@@ -524,7 +524,7 @@ body {
 /* !!!!FOOTER!!!! */
 .main {
     display: flex;
-    align-items: flex-start;
+    align-items: baseline;
 }
 
 .footer {
@@ -584,7 +584,6 @@ body {
 .join {
     width: 206px;
     margin-left: 70px;
-    margin-top: 10px;
 }
 
 
@@ -635,7 +634,6 @@ body {
     display: flex;
     align-items: end;
     margin-left: auto;
-    margin-top: 10px;
 }
 
 .follow-h {
